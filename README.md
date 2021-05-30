@@ -6,6 +6,6 @@ This is an user friendly social media application that uses a UI to create a pla
 ***This application is written with Django, Bootstrap, Crispy, and Pillow.
 This application uses Python, HML, CSS, and C.***
 
-Thank you for using the Blog APP.
+Thank you for using the Blog App.
 
 -  rush-bot
