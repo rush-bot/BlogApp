@@ -5,8 +5,7 @@ This is an user friendly social media application that uses a UI to create a pla
 
 There are a couple of ways to run the application:
 
-1. You can go to this link that takes you to the deployed application through Heroku.
-https://rushil-desai-blog-app.herokuapp.com/
+1. You can go to this link that takes you to the deployed application through Heroku. https://rushil-desai-blog-app.herokuapp.com/
 
 2. You can run the application through Docker with the provided Docker files.
 
